@@ -2,7 +2,7 @@
 1. Como um cliente, quero consultar o calendário de refeições para que eu possa organizar minha dieta semanal sem esquecer nenhum alimento.
 
 
-2. Como um cliente, quero receber alertas sobre ingredientes próximos do vencimento para que eu evite desperdício de comida.
+2. Como um cliente, quero receber alertas sobre ingredientes próximos do vencimento para que eu possa usar antes de ter desperdício.
 
 
 3. Como um cliente, quero buscar receitas com base nos ingredientes que já tenho em casa para que eu aproveite melhor os alimentos disponíveis.
